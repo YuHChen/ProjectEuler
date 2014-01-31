@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 threes = [] #multiples of three
 fives = [] #multiples of five
 
@@ -44,3 +45,7 @@ for i in commonMultiples:
 
 print("sum")
 print(total)
+=======
+for i in range (1,10):
+    
+>>>>>>> fa13f4d2a03d1d8dfed22c8d4284f67d135148d3
